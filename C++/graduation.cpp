@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-/*look for the element in the array to define index, return the true if it finds it and delete the element, false otherwise*/
+
 
 bool findAndDelete(int end, char to_find, char (&values)[]){
     for(int i = 0; i < end; i++){

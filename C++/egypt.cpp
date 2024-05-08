@@ -1,9 +1,6 @@
 #include<iostream>
 #include<algorithm>
-//#include<cmath>
 using namespace std; 
-
-/*radice quadrata dei quadrati delle misure dei lati piu' piccoli coincide con la misura del lato piu' grande allora il triangolo e' rettangolo*/
 
 int main(void){
     constexpr int kSides = 3;

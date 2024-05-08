@@ -13,7 +13,7 @@ def main():
 
 
 
-def billsWord(wordsList): #controlla la lista di parole e sceglie quella con maggior doppie vocali
+def billsWord(wordsList): 
     indexMax = -1
     max = 0
     word = ""
