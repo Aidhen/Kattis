@@ -3,10 +3,6 @@ import java.util.Scanner;
 public class Trik {
     public static void main(String args[]){
         Scanner in = new Scanner(System.in);
-        //la pallina parte dalla posizione piu a sx 
-        //A = scambio(1,2)
-        //B = scambio(2,3)
-        //C = scambio(1,3)
 
         String line = in.next();
         int ball = 1;
