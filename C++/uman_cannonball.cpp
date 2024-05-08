@@ -3,8 +3,7 @@
 #include<math.h>
 
 using namespace std;
-//vo, theta, x1, h1, h2
-//degree to radiant = degree * pi/180 
+
 
 int main(void){
     constexpr float pi = 3.14;//3.14159265359;
