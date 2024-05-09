@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-Collection of solutions to problems on [Kattis](https://open.kattis.com/).
+Collection of solutions to problems on [Kattis](https://open.kattis.com/), problems solved: 72.
 
 | Problem | Language | Kattis' link | 
 | ------------- | ------------- | ------------- |
