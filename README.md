@@ -39,7 +39,7 @@ Collection of solutions to problems on [Kattis](https://open.kattis.com/).
 | [Greeting](src/Python/Greeting.py) | Python | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/greetingcard) |
 | [HeartRate](src/Python/HeartRate.py) | Python | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/heartrate) |
 | [HelloWorld](src/Java/HelloWorld.java) | Java | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/hello) |
-| [hissing_micrphone](src/C++/hissing_micrphone.c) | C | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/hissingmicrophone) |
+| [hissing_microphone](src/C++/hissing_microphone.c) | C | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/hissingmicrophone) |
 | [IsItHalloween](src/Java/IsItHalloween.java) | Java | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/isithalloween) |
 | [JackOLantern](src/Java/JackOLantern.java) | Java | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/jackolanternjuxtaposition) |
 | [julmust](src/C++/julmust.cpp) | C++ | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/julmust) |
