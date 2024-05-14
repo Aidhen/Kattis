@@ -14,7 +14,7 @@
 | [bijele](src/C++/bijele.cpp) | C++ | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/bijele) |
 | [building_pyramids](src/C++/building_pyramids.cpp) | C++ | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/pyramids) |
 | [Cevtra](src/Java/Cevtra.java) | Java | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/cetvrta) |
-| [chanukah_challenge](src/C++/chanukah_challenge.cc) | C++ | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/chanukah) |
+| [chanukah_challenge](src/C++/chanukah_challenge.cpp) | C++ | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/chanukah) |
 | [ColdPuterScience](src/Java/ColdPuterScience.java) | Java | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/cold) |
 | [CountTheVolwes](src/Java/CountTheVolwes.java) | Java |[<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/countthevowels) |
 | [cryptographer](src/C++/cryptographer.cpp) | C++ | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/conundrum) |
@@ -65,7 +65,7 @@
 | [TakeTwoStones](src/Java/TakeTwoStones.java) | Java | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/twostones) |
 | [Tarifa](src/Java/Tarifa.java) | Java | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/tarifa) |
 | [tetration](src/C++/tetration.cpp) | C++ | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/tetration) |
-| [transit_woes](src/C++/transit_woes.cc) | C++ | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/transitwoes) |
+| [transit_woes](src/C++/transit_woes.cpp) | C++ | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/transitwoes) |
 | [TriangleArea](src/Java/TriangleArea.java) | Java | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/triarea) |
 | [Trik](src/Java/Trik.java) | Java | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/trik) |
 | [TwoSum](src/Java/TwoSum.java) | Java | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/twosum) |
