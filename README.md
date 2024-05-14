@@ -1,7 +1,5 @@
 # Kattis Solutions
 
-Collection of solutions to problems on [Kattis](https://open.kattis.com/), problems solved: 72.
-
 | Problem | Language | Kattis' link | 
 | ------------- | ------------- | ------------- |
 | [AddTwoNumbers](src/Java/AddTwoNumbers.java) | Java | [<img src="https://contest.ii.uib.no/bgopen/2021/logos/kattis.png" width="" height="30">](https://open.kattis.com/problems/addtwonumbers) 
