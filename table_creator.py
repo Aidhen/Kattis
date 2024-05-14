@@ -8,7 +8,7 @@
 # How it Works: for all folders it navigate all file, save his information in a alphabetic order dictionary,
 #               it try to set the problems links too, at finished work it create the table.
 #
-# There are two method: one for create a simple table without webpages' problems links, the other for make a table with links.  
+# There are two method: one for create a simple table without webpages' links, the other for make a table with links.  
 
 
 
